@@ -32,6 +32,10 @@ body {
   font-size: 0.75em;
 }
 
+.imgur  {
+  align-self: center;
+}
+
 p {
   margin-left: 10%;
   margin-right: 10%;
