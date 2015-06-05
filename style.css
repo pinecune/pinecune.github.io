@@ -53,12 +53,13 @@ p {
 }
 
 table {
-  margin-left: 10;
+  margin-left: 10%;
   margin-right: 10%;
+  width: 80%;
 }
 
 td  {
-  width: 100%;
+  width: 50%;
 }
 
 ul  {
