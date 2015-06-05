@@ -1,13 +1,10 @@
 body {
   background: rgb(204, 218, 222); 
-}
-
-.hipster  {
+  margin-left: 10%;
+  margin-right: 10%;
   font-family: "Roboto Condensed", "sans-serif";
-  font-weight: bold;
-  color: rgb(0, 0, 0);
+  
 }
-
 .header  {
   margin: 30px;
   text-align: center;
@@ -15,7 +12,6 @@ body {
   font-weight: 900;
   font-size: 2.5em;
 }
-
 .sub_header {
   margin-top: 30px;
   font-family: "Roboto", "sans-serif";
@@ -23,86 +19,83 @@ body {
   font-size: 2em;
   text-align: center;
 }
-
+.footer  {
+  text-align: center;
+  padding-top: 50px;
+  font-size: 0.75em;
+}
 .title  {
-  margin-left: 10%;
-  margin-right: 10%;
   margin-top: 30px;
   font-family: "Roboto", "sans-serif";
   font-weight: 500;
   font-size: 1.5em;
 }
 
-.footer  {
-  text-align: center;
-  padding-top: 50px;
-  font-family: "Roboto Condensed", "sans-serif";
-  font-size: 0.75em;
-}
+
+
 
 .imgur  {
   text-align: center;
 }
 
+
+
+
+
 p {
-  margin-left: 10%;
-  margin-right: 10%;
-  font-family: "Roboto Condensed", "sans-serif";
   font-weight: 500;
   font-size: 1em;
 }
 
+
+
+
+
 table {
-  margin-left: 10%;
-  margin-right: 10%;
   width: 80%;
 }
-
 td  {
   width: 50%;
 }
 
+
+
+
+
 ul  {
-  font-family: "Roboto Condensed", "sans-serif";
+  list-style-type: none;
   font-weight: 500;
   font-size: 1em;
 }
-
-.head_specs {
-  list-style-type: none;
+ul.specs  {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+li.head_specs {
   font-size: 1.25em;
   font-weight: 700;
 }
-.specs  {
-  list-style-type: none;
-}
 
 
-hr {
-  margin-left: 10%;
-  margin-right: 10%;
-}
+
+
 
 a:link  {
   color: rgb(195, 28, 28);
   text-decoration: none;
 }
-
 a:visited  {
   color: rgb(195, 28, 28);
   text-decoration: none;
 }
-
 a:hover {
   color: rgb(128, 128, 128);
   text-decoration: none;
 }
-
 .header a:link  {
   color: rgb(0,0,0);
   text-decoration: none;
 }
-
 .header a:visited  {
   color: rgb(0,0,0);
   text-decoration: none;
@@ -111,7 +104,6 @@ a:hover {
   color: rgb(0,0,0);
   text-decoration: none;
 }
-
 .header a:hover  {
   color: rgb(128, 128, 128);
   text-decoration: none;
