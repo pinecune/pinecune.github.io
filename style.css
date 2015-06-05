@@ -1,79 +1,7 @@
-body {
-  background: rgb(204, 218, 222); 
-  margin-left: 10%;
-  margin-right: 10%;
-  font-family: "Roboto Condensed", "sans-serif";
-  
-}
-.header  {
-  margin: 30px;
-  text-align: center;
-  font-family: "Roboto", "sans-serif";
-  font-weight: 900;
-  font-size: 2.5em;
-}
-.sub_header {
-  margin-top: 30px;
-  font-family: "Roboto", "sans-serif";
-  font-weight: 700;
-  font-size: 2em;
-  text-align: center;
-}
 .footer  {
   text-align: center;
   padding-top: 50px;
   font-size: 0.75em;
-}
-.title  {
-  margin-top: 30px;
-  font-family: "Roboto", "sans-serif";
-  font-weight: 500;
-  font-size: 1.5em;
-}
-
-
-
-
-.imgur  {
-  text-align: center;
-}
-
-
-
-
-
-p {
-  font-weight: 500;
-  font-size: 1em;
-}
-
-
-
-
-
-table {
-  width: 100%;
-}
-td  {
-  width: 50%;
-}
-
-
-
-
-
-ul  {
-  list-style-type: none;
-  font-weight: 500;
-  font-size: 1em;
-}
-ul.specs  {
-  margin-left: 0px;
-  margin-right: 0px;
-}
-li.head_specs {
-  font-size: 1.25em;
-  font-weight: 700;
 }
 
 
