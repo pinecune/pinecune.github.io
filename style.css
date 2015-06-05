@@ -8,12 +8,20 @@ body {
   color: rgb(0, 0, 0);
 }
 
-#header  {
+.header  {
   margin: 30px;
   text-align: center;
   font-family: "Roboto", "sans-serif";
   font-weight: 900;
   font-size: 2.5em;
+}
+
+.sub_header {
+  margin-top: 30px;
+  font-family: "Roboto", "sans-serif";
+  font-weight: 700;
+  font-size: 2em;
+  text-align: center;
 }
 
 .title  {
@@ -56,4 +64,38 @@ ul  {
 hr {
   margin-left: 10%;
   margin-right: 10%;
+}
+
+a:link  {
+  color: rgb(195, 28, 28);
+  text-decoration: none;
+}
+
+a:visited  {
+  color: rgb(195, 28, 28);
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(128, 128, 128);
+  text-decoration: none;
+}
+
+.header a:link  {
+  color: rgb(0,0,0);
+  text-decoration: none;
+}
+
+.header a:visited  {
+  color: rgb(0,0,0);
+  text-decoration: none;
+}
+.header a:link  {
+  color: rgb(0,0,0);
+  text-decoration: none;
+}
+
+.header a:hover  {
+  color: rgb(128, 128, 128);
+  text-decoration: none;
 }
