@@ -1,2 +1,0 @@
-Obrin Dastek
-Blunt Ostrich
